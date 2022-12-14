@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T06:20:30.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="L4XNkAtLCn1jQvIbZrGA" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T06:25:55.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="gkKtlUcaRGe4skDgWMWN" type="github">
   <diagram id="LaVcLcpxrj1Tvqvn4KNz" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,9 @@
           <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k98yIAPE-ExA4cILHq8d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-5" target="k98yIAPE-ExA4cILHq8d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-5" target="k98yIAPE-ExA4cILHq8d-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k98yIAPE-ExA4cILHq8d-5" value="&lt;div&gt;将网站的附件文件存储到amazon oss中&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="k98yIAPE-ExA4cILHq8d-31" value="&lt;div&gt;发生异常&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-32" value="数据入库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="544.5" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
