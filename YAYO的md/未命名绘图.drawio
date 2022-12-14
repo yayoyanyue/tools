@@ -1,20 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T06:08:01.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="XykNTENa_aBEvqU3JqzJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T06:12:00.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="abowmDH0JRQbfPWhzFJZ" type="github">
   <diagram id="LaVcLcpxrj1Tvqvn4KNz" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k98yIAPE-ExA4cILHq8d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-1" target="k98yIAPE-ExA4cILHq8d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k98yIAPE-ExA4cILHq8d-1" value="&lt;div&gt;整理业务的网站和网站搜索关键词&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k98yIAPE-ExA4cILHq8d-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k98yIAPE-ExA4cILHq8d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-2" target="k98yIAPE-ExA4cILHq8d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-2" value="&lt;div&gt;定时任务执行（code-timetask）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k98yIAPE-ExA4cILHq8d-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k98yIAPE-ExA4cILHq8d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-3" target="k98yIAPE-ExA4cILHq8d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-3" value="&lt;div&gt;定时任务执行（code-timetask）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k98yIAPE-ExA4cILHq8d-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k98yIAPE-ExA4cILHq8d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-4" target="k98yIAPE-ExA4cILHq8d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-4" value="&lt;div&gt;将指定网站爬取的标题和内容存储进数据库&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k98yIAPE-ExA4cILHq8d-5" target="k98yIAPE-ExA4cILHq8d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-5" value="&lt;div&gt;将网站的附件文件存储到amazon oss中&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k98yIAPE-ExA4cILHq8d-6" value="判断是否有网站爬取失败" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="430" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
